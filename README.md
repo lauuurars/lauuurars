@@ -17,14 +17,10 @@
 
 ## About Me ˚. !!
 
-<br/>
-
 - 🎨 I design *and* build cool things for fun!
 - 💻 Passionate about web design in every form 
 - 🎸 Guitarist in progress
 - 🐱 Certified cat person
-  
-<br/>
 
 ## Tech Stack ✶.˚
 
