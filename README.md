@@ -20,12 +20,6 @@
 - 🎸 Guitarist in progress
 - 🐱 Certified cat person
 
-<div align="center">
-
-<!-- 🐾 Add a cute gif or photo here! -->
-<!-- <img src="your-gif-url-here" width="260"/> -->
-
-</div>
 
 <br/>
 
@@ -78,9 +72,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lauuurars&show_icons=true&hide_border=true&bg_color=0D0815&title_color=FFFFFF&icon_color=C4B5FD&text_color=FFFFFF" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lauuurars&show_icons=true&hide_border=true&bg_color=0D0815&title_color=FFFFFF&icon_color=C4B5FD&text_color=FFFFFF" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauuurars&hide_border=true&background=0D0815&ring=C4B5FD&fire=C4B5FD&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauuurars&hide_border=true&background=0D0815&ring=C4B5FD&fire=C4B5FD&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
 
 <br/><br/>
 
