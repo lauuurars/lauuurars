@@ -4,6 +4,8 @@
 
 <h1>Hi, I'm Lau 👋</h1>
 
+<br/>
+
 <img
   src="https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=50&lines=Interactive+Media+Designer+%E2%8B%86%CB%99%E2%9F%A1;Frontend+Developer+%E2%9C%AE%E2%8B%86%CB%99;UX+%2F+UI+Designer+%3E%E2%A9%8A%3C;Music+Enthusiast+%E2%99%AC%E2%8B%86.;Cat+Lover+%E2%82%8D%5E.+.%5E%E2%82%8E%E2%9F%86"
   alt="Typing SVG"
@@ -72,9 +74,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lauuurars&show_icons=true&hide_border=true&bg_color=0D0815&title_color=FFFFFF&icon_color=C4B5FD&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lauuurars&show_icons=true&hide_border=true&bg_color=0D0815&title_color=FFFFFF&icon_color=C4B5FD&text_color=FFFFFF" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauuurars&hide_border=true&background=0D0815&ring=C4B5FD&fire=C4B5FD&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauuurars&hide_border=true&background=0D0815&ring=C4B5FD&fire=C4B5FD&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="160"/>
 
 <br/><br/>
 
