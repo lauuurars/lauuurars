@@ -7,7 +7,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=50&lines=Interactive+Media+Designer+%E2%8B%86%CB%99%E2%9F%A1;Frontend+Developer+%E2%9C%AE%E2%8B%86%CB%99;UX+%2F+UI+Designer+%3E%E2%A9%8A%3C;Music+Enthusiast+%E2%99%AC%E2%8B%86.;Cat+Lover+%E2%82%8D%5E.+.%5E%E2%82%8E%E2%9F%86"
+  src="https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&weight=500&size=32&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=50&lines=Interactive+Media+Designer+%E2%8B%86%CB%99%E2%9F%A1;Frontend+Developer+%E2%9C%AE%E2%8B%86%CB%99;UX+%2F+UI+Designer+%3E%E2%A9%8A%3C;Music+Enthusiast+%E2%99%AC%E2%8B%86.;Cat+Lover+%E2%82%8D%5E.+.%5E%E2%82%8E%E2%9F%86"
   alt="Typing SVG"
 />
 
